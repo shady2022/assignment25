@@ -9,3 +9,10 @@
 
 # 3 convolution-1
 ![result3](https://user-images.githubusercontent.com/88148144/143734904-a476e005-1536-406c-ab76-d96c8a523e87.jpg)
+
+# 3shade
+
+
+https://user-images.githubusercontent.com/88148144/143884559-fb1b533c-a580-4626-82a7-58e3fe1e55bb.mp4
+
+
